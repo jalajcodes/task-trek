@@ -11,7 +11,9 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 
 ## Demo
 
-[Deployed on Netlify (front-end) & Render (back-end)](https://tasktrek.netlify.app)
+[Deployed on Render](https://task-trek.onrender.com/)
+
+P.S: Its deployed on a free server which sleeps on inactivity, so first open might take some time.
 
 ## Built using
 
