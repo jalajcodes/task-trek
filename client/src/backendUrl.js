@@ -1,3 +1,3 @@
-const backendUrl = 'http://localhost:3006';
+const backendUrl = "http://task-trek.onrender.com";
 
 export default backendUrl;
