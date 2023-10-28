@@ -11,7 +11,7 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 
 ## Demo
 
-[Deployed on Render](https://task-trek.onrender.com/)
+[Live Demo Deployed on Render](https://task-trek.onrender.com/)
 
 P.S: Its deployed on a free server which sleeps on inactivity, so first open might take some time.
 
@@ -50,6 +50,10 @@ P.S: Its deployed on a free server which sleeps on inactivity, so first open mig
 - Toast notifications for actions such as adding new entry, or 'starring' it etc.
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
+
+## Screenshot
+
+![Desktop](./screenshots/a.png)
 
 ## Run Locally
 
