@@ -5,7 +5,7 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 ## Thing I would have done if I had more time
 
 - Save the sort/filter/search state in url, so that when user refreshes the page, the state is not lost and the url can be shared with others.
-- Added more test cases.
+- Added test cases for frontend and backend using react-testing-library and jest.
 - Improve the UI of the app.
 - Think of a better UX for the todo list feature.
 
@@ -48,18 +48,6 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 - Toast notifications for actions such as adding new entry, or 'starring' it etc.
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
-
-## Screenshots
-
-#### Desktop
-
-![Desktop-1](https://github.com/jalajcodes/task-trek-mern/blob/master/screenshots/desktop-1.jpg)
-![Desktop-2](https://github.com/jalajcodes/task-trek-mern/blob/master/screenshots/desktop-2.jpg)
-
-#### Mobile
-
-![Mobile-1](https://github.com/jalajcodes/task-trek-mern/blob/master/screenshots/mobile-1.jpg)
-![Mobile-2](https://github.com/jalajcodes/task-trek-mern/blob/master/screenshots/mobile-2.jpg)
 
 ## Run Locally
 
